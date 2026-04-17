@@ -1,0 +1,3 @@
+# GitLab-Repo klonen
+git clone https://gitlab2.cip.ifi.lmu.de/strom/love_letter_strom.git
+cd sep-ss24-love-letter
